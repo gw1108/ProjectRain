@@ -1,0 +1,1 @@
+SVN does not support empty directories.
